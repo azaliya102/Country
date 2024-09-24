@@ -71,7 +71,7 @@ public class Country {
                 new Citizen("Benjamine Linus", 40, "male")
         };
         Community[] laCommunities = {
-                new Community("Others", laCitizens)
+                new Community("Otherss", laCitizens)
         };
 
         Citizen[] saCitizens = {
