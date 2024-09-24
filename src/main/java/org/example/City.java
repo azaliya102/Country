@@ -44,9 +44,9 @@ public class City {
     @Override
     public String toString() {
         return "City{" +
-                "name='" + name + '\'' +
-                ", population=" + population +
-                ", communities=" + Arrays.toString(communities) +
+                "name= '" + name + '\'' +
+                ", population =" + population +
+                ", communities = " + Arrays.toString(communities) +
                 '}';
     }
 
